@@ -1,5 +1,4 @@
-#NLP
-NLP Project
+
 "NLP-driven Insights from Descriptive Text Data"
 
 This Project was completed for a Data Challenge where no NDA agreement was asked or signed.
